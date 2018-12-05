@@ -1,0 +1,31 @@
+
+/*Photography*/
+.rounded-border{
+    
+    font-size: 20px;
+    border:none;
+    background-color: rgba(19, 139, 15, 0.7);
+    
+    
+
+}
+
+.rounded-border:hover{
+    background-color: rgba(12, 23, 89, 0.7);
+
+}
+
+/*saed*/
+.training1 {
+    margin-top:30px;
+    position: relative;
+    overflow: hidden;
+    opacity: 1;
+    text-align: center;
+    background-color:transparent;
+    background-repeat:repeat;
+	background-size:cover;
+    min-height:400px;
+
+}
+

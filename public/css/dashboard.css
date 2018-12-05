@@ -1,0 +1,187 @@
+}
+
+.icon-round {
+    margin-top:30px;
+  font-size: 24px;
+  height: 68px;
+  width: 68px;
+  line-height: 68px;
+  color: #fff;
+  margin-right: 10px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 100%;
+  margin-bottom: 10px;
+}
+.small-icons {
+    margin-top:0px;
+font-size: 24px;
+height: 40px;
+width: 40px;
+line-height: 45px;
+color: #fff;
+margin-right: 10px;
+text-align: center;
+display: inline-block;
+border-radius: 100%;
+margin-bottom: 10px;
+}
+
+
+.lg-icons {
+    padding-top:5px;
+    margin-top:20px;
+font-size: 115px;
+height: 120px;
+width: 120px;
+line-height: 45px;
+color: #fff;
+margin-right: 10px;
+text-align: center;
+display: inline-block;
+border-radius: 100%;
+margin-bottom: 10px;
+}
+
+
+.wrap-pad {
+    padding: 60px 30px;
+    position: relative;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+
+/*color changes*/
+
+.color-red {
+    color:#ff0000;
+}
+
+.color-green {
+    color:#07BB00;
+}
+
+.color-light-blue {
+    color:#BB00BB;
+}
+
+.color-blue {
+    color:#0052FF;
+}
+.color-brown {
+    color:#EB8F2D;
+}
+.color-black {
+    color:#000000;
+}
+
+.color-grey {
+    color:rgb(128, 128, 128);
+}
+
+.bk-color-red {
+    background-color:#ff0000;
+}
+
+.bk-color-green {
+    background-color:#07BB00;
+}
+
+.bk-color-light-blue {
+    background-color:#BB00BB;
+}
+
+.bk-color-blue {
+    background-color:#0052FF;
+}
+.bk-color-brown {
+    background-color:#EB8F2D;
+}
+.bk-color-black {
+   background-color:#000000;
+}
+
+
+/*main*/
+
+
+
+.container-fluid{
+    margin:0px;
+    padding:0px;
+    width:100%;
+}
+
+
+.card{
+    margin:0px;
+    padding:0px;
+    width:100%;
+}
+
+
+.dashboard-side{
+font-size: 30px; 
+color:rgb(228, 232, 236);
+background-color:#234;
+width:90%;
+height:300px;
+margin:2px;
+border-radius:5px;
+padding:20px 30px;
+box-shadow: 1px 2px  4px rgba(15, 42, 68, 0.5);
+}
+
+
+.user-fav{
+margin:10px auto;
+margin-top:10px auto;
+    width:100px;
+    height:100px;
+}
+
+
+.box-shadowing{
+    padding:10px auto;
+    text-align: center;
+    box-shadow: 1px 2px  4px rgba(42, 89, 136, 0.5);
+}
+
+
+.padding-left{
+    padding-left:30px;
+}
+
+form{
+    padding:20px;
+}
+
+#dash1{
+    display: block;
+}
+
+#dash2{
+    display: none;
+}
+
+
+#dash3{
+    display: none;
+}
+
+#dash4{
+    display: none;
+}
+
+.side-nav li>a{
+    list-style: none;
+    text-decoration: none;
+    font-size: 22px;
+    text-align: left;
+    padding-left:10px;
+    margin-left:20px;
+    color:rgba(168, 153, 184, 0.733);
+    
+}

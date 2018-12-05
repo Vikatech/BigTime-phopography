@@ -1,0 +1,43 @@
+.nysc{
+
+    margin-top:2px;
+    position: relative;
+    overflow: hidden;
+    color:#def;
+    text-align: center;
+    background-color: transparent;
+    background-color: #0f080a;
+    background-image: url('/image/training/training2.jpg');
+    background-repeat:no-repeat;
+	background-size:cover;
+    min-height:700px;
+
+}
+
+
+.nysc card-header{
+    color:#def;
+
+}
+
+.nysc-body{
+    color:#def;
+    background:linear-gradient(#131180,rgb(55, 28, 175));
+    background: rgba(54, 53, 150, 0.3);
+    margin:0 auto;
+    padding:120px auto;
+}
+
+.img-small{
+    padding:2px;
+    width:100px;
+    height:100px;
+
+}
+
+.small{
+  box-shadow: 1px 2px 4px rgba(008, 012, 032,0.5);
+    padding:5px auto;
+    margin:5px auto;
+    width:90%;
+}
